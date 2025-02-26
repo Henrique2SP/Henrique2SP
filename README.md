@@ -5,7 +5,6 @@
 Want to see more projects where I've actively contributed?  
 Check out the organizations I'm part of:  
 
-- 🏥 [PETcisam - PetFilasInteligentes](https://github.com/PETcisam/PetFilasInteligentes)  
 - 📚 [Projeto LPI](https://github.com/ProjetoLPI/LPIprojeto)  
 - 🎮 [Crônicas de Arcana](https://github.com/LPOO-Henrique-Savio-Juan-Caio/Cronicas-de-Arcana)  
 
