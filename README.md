@@ -3,12 +3,15 @@
 ## 🚀 Explore My Contributions!
 
 Want to see more projects where I've actively contributed?  
-Check out the organizations I'm part of!  
+Check out the organizations I'm part of:  
 
-🔍 **Browse my work and collaborations:**  
-[GitHub Organizations]([https://github.com/settings/organizations](https://github.com/PETcisam/PetFilasInteligentes) 
+- 🏥 [PETcisam - PetFilasInteligentes](https://github.com/PETcisam/PetFilasInteligentes)  
+- 📚 [Projeto LPI](https://github.com/ProjetoLPI/LPIprojeto)  
+- 🎮 [Crônicas de Arcana](https://github.com/LPOO-Henrique-Savio-Juan-Caio/Cronicas-de-Arcana)  
 
 Let's build something awesome together! 💡✨  
+
+- 🔭 Now, I’m currently working on courses of machine learning.
 <!--
 **Henrique2SP/Henrique2SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
